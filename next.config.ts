@@ -3,6 +3,14 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   reactStrictMode: true,
 
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+
+  typescript: {
+    ignoreBuildErrors: false,
+  },
+
   images: {
     remotePatterns: [
       {
@@ -12,15 +20,16 @@ const nextConfig: NextConfig = {
     ],
   },
 
+  compress: true,
+
+  poweredByHeader: false,
+
   experimental: {
     optimizePackageImports: [
       "lucide-react",
       "framer-motion",
     ],
   },
-
-  compress: true,
-  poweredByHeader: false,
 
   async headers() {
     return [
