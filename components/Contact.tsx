@@ -33,7 +33,7 @@ export default function Contact() {
           </h2>
 
           <p className="text-gray-400 mt-6 max-w-2xl mx-auto">
-            Have a project in mind? We'd love to hear from you.
+            Have a project in mind? We&apos;d love to hear from you.
           </p>
         </motion.div>
 
