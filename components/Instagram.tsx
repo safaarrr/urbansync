@@ -57,7 +57,7 @@ export default function InstagramSection() {
           </div>
 
           <a
-            href="https://instagram.com/"
+            href="https://instagram.com/urban.sync_"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-full bg-white text-black px-6 py-3 font-semibold hover:scale-105 transition"
