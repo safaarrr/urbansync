@@ -5,7 +5,7 @@ import { ArrowUpRight } from "lucide-react";
 
 const projects = [
   {
-    title: "Restaurant Promo",
+    title: "Restaurant Video",
     category: "Commercial Video",
     image: "/images/project1.jpg",
   },
