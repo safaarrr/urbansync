@@ -48,33 +48,33 @@ export const services = [
 
 export const portfolio = [
   {
-    title: "Restaurant Advertisement",
+    title: "Restaurant Video",
     category: "Commercial",
-    video: "/videos/project1.mp4",
+    video: "/videos/resturant.mp4",
     thumbnail: "/images/project1.jpg",
   },
   {
-    title: "Wedding Highlight Film",
+    title: "Wedding-Event Management",
     category: "Wedding",
-    video: "/videos/project2.mp4",
+    video: "/videos/event.mp4",
     thumbnail: "/images/project2.jpg",
   },
   {
-    title: "Corporate Brand Film",
+    title: "Clothing Store Reel",
     category: "Corporate",
-    video: "/videos/project3.mp4",
+    video: "/videos/clothing.mp4",
     thumbnail: "/images/project3.jpg",
   },
   {
-    title: "Real Estate Promo",
+    title: "Cosmetics Shop Video",
     category: "Real Estate",
-    video: "/videos/project4.mp4",
+    video: "/videos/cosmetic.mp4",
     thumbnail: "/images/project4.jpg",
   },
   {
-    title: "Instagram Reel",
+    title: "Product Advertisement Reel",
     category: "Social Media",
-    video: "/videos/project5.mp4",
+    video: "/videos/promotion.mp4",
     thumbnail: "/images/project5.jpg",
   },
   {
@@ -122,13 +122,13 @@ export const company = {
   name: "Urban Sync",
   tagline: "Creative Media & Digital Solutions",
 
-  email: "hello@urbansync.in",
-  phone: "+91 XXXXX XXXXX",
+  email: "urbansyncmarketing@gmail.com",
+  phone: "+91 98477 99791",
 
   address: "Thiruvananthapuram, Kerala",
 
-  instagram: "https://instagram.com/urbansync",
+  instagram: "https://instagram.com/urban.sync_",
   linkedin: "https://linkedin.com/company/urbansync",
 
-  whatsapp: "https://wa.me/91XXXXXXXXXX",
+  whatsapp: "https://wa.me/919847799791",
 };
