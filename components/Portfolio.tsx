@@ -10,7 +10,7 @@ const projects = [
     title: "Restaurant Video",
     category: "Commercial",
     image: "/images/project1.jpg",
-    video: "/videos/restaurant.mp4",
+    video: "/videos/resturant.mp4",
   },
   {
     title: "Wedding Event",
