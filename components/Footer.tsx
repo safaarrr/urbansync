@@ -69,7 +69,7 @@ export default function Footer() {
         <div className="flex gap-6">
 
           <a
-            href="https://instagram.com/"
+            href="https://instagram.com/urban.sync_"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:scale-110 transition"
@@ -87,7 +87,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://github.com/"
+            href="https://github.com/safaarrr"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:scale-110 transition"
